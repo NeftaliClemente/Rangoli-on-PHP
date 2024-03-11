@@ -1,7 +1,3 @@
-Por supuesto, aquí tienes el markdown para describir el código proporcionado:
-
----
-
 ## Generador de Patrón de Rangoli en PHP
 
 Este código PHP genera un patrón de Rangoli basado en un tamaño dado. El patrón de Rangoli es un patrón decorativo tradicional de la India que se hace en el suelo en ocasiones especiales.
@@ -25,7 +21,3 @@ Este script PHP define una función llamada `generarRangoli()` que toma un pará
    - Se añaden espacios en blanco a cada lado de la línea para centrarla en el patrón de Rangoli.
 
 4. Finalmente, se muestra el patrón de Rangoli en la salida estándar.
-
----
-
-Espero que esta descripción sea útil. Si necesitas más información o tienes alguna pregunta, no dudes en preguntar.
